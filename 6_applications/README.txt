@@ -1,0 +1,1 @@
+This is the folder that contains my 6 applications of machine learning
